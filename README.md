@@ -1,7 +1,5 @@
 # Hi 👋 I'm Divon John
 
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 🎓 B.Tech Computer Science Student  
 💻 Interested in Core CS & AI/ML 
 📍 India
