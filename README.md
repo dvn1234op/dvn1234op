@@ -37,11 +37,4 @@
 
 ---
 
-<h1>
-    <img height="130px" src="https://github-readme-stats.vercel.app/api?username=dvn124op&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite" />
-    <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvn124op&hide_title=true&layout=compact&theme=graywhite" />
-</h1>
-
----
-
 ⭐ *Thanks for visiting my profile!*
