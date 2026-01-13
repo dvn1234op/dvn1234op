@@ -32,7 +32,6 @@
 
 - 📦 Database Management System using Node.js & MySQL  
 - ⚙️ Algorithms & Data Structures Implementations  
-- 🍔 Online Food Delivery App (Backend-focused)  
 - 🧠 Core CS: OS, DBMS, CN, TOC
 
 ---
